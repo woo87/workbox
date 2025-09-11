@@ -1,4 +1,4 @@
-![프로필 이미지](Github_profile_image.png)
+![프로필 이미지](Github profile image(original)_500x500.png)
 
 # Information
 
