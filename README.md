@@ -4,6 +4,6 @@
   - Python
   
 - Study
-  - AI, Data, Programing
+  - **AI**, *Data*, ***Programing***, ~coding~ 
 
 ---
