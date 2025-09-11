@@ -1,7 +1,9 @@
 # Information
 
-Code : Python
-
-Study : AI, Data, Programing
+- Code
+  - Python
+  
+- Study
+  - AI, Data, Programing
 
 ---
